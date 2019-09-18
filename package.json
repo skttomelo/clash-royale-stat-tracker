@@ -1,7 +1,7 @@
 {
-  "name": "apex-stat-tracker",
+  "name": "clash-royale-stat-tracker",
   "version": "1.0.0",
-  "description": "stat tracker for apex legends",
+  "description": "stat tracker for clash royale",
   "main": "server.js",
   "scripts": {
     "start": "node server",
